@@ -1,2 +1,2 @@
 # food_sales_predictions
-predicting the sales of various food items
+Predicting the sales of various food items, based on visibility, outlet size, fat content, item type, and MRP
