@@ -11,7 +11,7 @@ Item MRP and Item Sales displayed a moderately strong correlation that was exami
 
 Item type was examined to see high performing categories in the high sales, high MRP category.
 
-![FoodSaleshiMRP](https://user-images.githubusercontent.com/91214731/142920591-f1921763-c67a-4143-9d92-d4501d27a1ad.png)
+![FoodSaleshiMRP (2)](https://user-images.githubusercontent.com/91214731/142920787-15bb0eb2-1aad-4084-8988-dc43bd029f05.png)
 
 
 A decision tree model was developed and tested against a linear regression model using R2, MAE, MSE, and RMSE as metrics. The decision tree model outperformed the linear regression model on all metrics.
