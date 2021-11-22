@@ -11,4 +11,4 @@ Item MRP and Item Sales displayed a moderately strong correlation that was exami
 
 A decision tree model was developed and tested against a linear regression model using R2, MAE, MSE, and RMSE as metrics. The decision tree model outperformed the linear regression model on all metrics.
 
-Recommendations for this project include maximizing the visibility and promoting items that are high MRP in starchy foods, breakfast foods, and seafoods categories, especially in Supermarket Tier 3 store types.
+Recommendations for this project include maximizing the visibility and promoting items that are high MRP in starchy foods, breakfast foods, and seafoods categories, especially in Supermarket Tier 3 store types. Please see the attached video presentation for a more complete overview of the data, model, and recommendations.
