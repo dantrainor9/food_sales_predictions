@@ -7,6 +7,8 @@ This data was gathered from the Analytics Vidhya Hackathon: Big Mart Problem. Th
 
 Correlations between variables after encoding was analyzed to view patterns in the dataset.
 
+![image](https://user-images.githubusercontent.com/91214731/161160607-2d2d2379-6aa1-4b9b-9294-ac74efb305e6.png)
+
 ![FoodSalesvMRP](https://user-images.githubusercontent.com/91214731/142919715-0692f607-6f8f-43be-9519-06b82adc6b39.png)
 
 Item MRP and Item Sales displayed a moderately strong correlation that was examined further.
