@@ -13,7 +13,7 @@ Item MRP and Item Sales displayed a moderately strong correlation that was exami
 
 ![image](https://user-images.githubusercontent.com/91214731/161160607-2d2d2379-6aa1-4b9b-9294-ac74efb305e6.png)
 
-Jointplot of the previously mentioned correlation between Item MRP and Item Sales.
+Another visualization of the previously mentioned correlation between Item MRP and Item Sales.
 
 ![FoodSaleshiMRP (2)](https://user-images.githubusercontent.com/91214731/142920787-15bb0eb2-1aad-4084-8988-dc43bd029f05.png)
 
